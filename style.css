@@ -1,0 +1,12 @@
+body
+{
+    background-image: url("bg-img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+canvas
+{
+    background-color: antiquewhite;
+    width: 800px;
+    height: 400px;
+}
